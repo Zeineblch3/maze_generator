@@ -13,3 +13,5 @@ yarn dev
 Enter the **Width** and **Height** for your maze, then click **Generate Maze** to create it.
 
 Use the **Arrow keys** (Up, Down, Left, Right) to move the player through the maze.
+
+[Live Demo](https://maze-generator-coral.vercel.app/)
